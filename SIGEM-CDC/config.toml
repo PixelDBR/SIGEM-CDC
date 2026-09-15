@@ -1,7 +1,0 @@
-[theme]
-base="dark"
-primaryColor = "#ff0000"
-backgroundColor = "#1c1a27"         # Main background color
-secondaryBackgroundColor = "#00000036" # Sidebar and widget background color
-textColor = "#c4c6d1"
-font="monospace"
