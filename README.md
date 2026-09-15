@@ -1,2 +1,2 @@
-# MECANOGRAFIA-CDC
+# SIGEM-CDC
 Repositório para alteração e colaboração para o trabalho de BD, DIEU e Robótica
